@@ -8,7 +8,7 @@ I'm a music-loving developer building open-source tools for the self-hosted musi
 - **[Plexamp Docker](https://github.com/anatosun/plexamp-docker)** - A Docker image for running Plexamp headless
 - **[Plex2Mix](https://github.com/anatosun/plex2mix)** - A powerful playlist downloader built for DJs and music enthusiasts
 
-## ☕ Support My Work
+## ☕ Support my work
 
 If my work has made your music setup a little better, consider supporting me! ☕🎵
 
